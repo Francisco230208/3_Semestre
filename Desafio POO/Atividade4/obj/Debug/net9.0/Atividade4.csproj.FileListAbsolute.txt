@@ -1,0 +1,15 @@
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\bin\Debug\net9.0\Atividade4.exe
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\bin\Debug\net9.0\Atividade4.deps.json
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\bin\Debug\net9.0\Atividade4.runtimeconfig.json
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\bin\Debug\net9.0\Atividade4.dll
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\bin\Debug\net9.0\Atividade4.pdb
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.AssemblyInfo.cs
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.sourcelink.json
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.dll
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\refint\Atividade4.dll
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.pdb
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\Atividade4.genruntimeconfig.cache
+C:\Users\Micro\Desktop\3_Semestre\Desafio POO\Atividade4\obj\Debug\net9.0\ref\Atividade4.dll
